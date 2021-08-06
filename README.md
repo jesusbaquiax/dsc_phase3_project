@@ -29,12 +29,14 @@ The third step of the process include the use of different models to see which o
 a Dummy Classifier was used as the baseline model. The f1 score was 0.96 and 0.96. While these are great scores, there are inherent issues with the dummy classifer and using it beyond the train and test data.
 
 Baseline Model Train Score & Confusion Matrix
+
 ![baseline_model_train_score](./Images/baseline_model_train_score.PNG)
 
 ![best_model_train_matrix](./Images/baseline_model_train_confusion_matrix.PNG)
 
 
 Baseline Model Test Score & Confusion Matrix
+
 ![baseline_model_test_score](./Images/baseline_model_test_score.PNG)
 
 ![baseline_model_test_matrix](./Images/baseline_model_test_confusion_matrix.PNG)
@@ -98,10 +100,11 @@ Lastly, strategizing on how we can implement these changes into the department w
 
 ### Repository Structure
 
-├── images
-├── 01_data_cleaning.ipynb
-├── 02_predictive_modelling.ipynb
-├── 03_data_visualizations.ipynb
-├── README.md # Tools and utilities
+.
+├── Images                  
+├── 01_data_cleaning.ipynb                  
+├── 02_predictive_modelling.ipynb                   
+├── 03_data_visualizations.ipynb                    
+├── README.md                   
 ├── Terry_Stops.csv
 └── Terry_stops_cleaned.csv
