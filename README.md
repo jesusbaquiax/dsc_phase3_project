@@ -8,7 +8,7 @@ This project analyses Terry Stops recorded by officers of the Seattle Police Dep
 
 ## Problem at Hand
 
-It's important 
+As positive public opinion increasingly shifts away from Police Departments across the nation. It is much more important now for departments to re-emphasis and adapts its focus to building Community relationships and improving internal accountability during these changing times. While the scope of the issue and myriad of solutions are large and profound. Terry Stops  is one area of focus that can begin to lay the groundwork for change. In order to address this issue, determining which key features of a terry stop leads to an arrest will be important to be able to create solutions that address terry stop arrests.
 
 
 ### Data
@@ -102,7 +102,7 @@ Lastly, strategizing on how we can implement these changes into the department w
 
 ### Repository Structure
 
-'''bash
+```bash
 
 ├── Images                  
 ├── 01_data_cleaning.ipynb                  
@@ -111,3 +111,5 @@ Lastly, strategizing on how we can implement these changes into the department w
 ├── README.md                   
 ├── Terry_Stops.csv
 └── Terry_stops_cleaned.csv
+
+```
