@@ -8,6 +8,8 @@ This project analyses Terry Stops recorded by officers of the Seattle Police Dep
 
 ## Problem at Hand
 
+It's important 
+
 
 ### Data
 
@@ -100,7 +102,8 @@ Lastly, strategizing on how we can implement these changes into the department w
 
 ### Repository Structure
 
-.
+'''bash
+
 ├── Images                  
 ├── 01_data_cleaning.ipynb                  
 ├── 02_predictive_modelling.ipynb                   
