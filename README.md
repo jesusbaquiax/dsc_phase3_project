@@ -95,7 +95,7 @@ While more research will need to be invested, a few preliminary solutions toward
 
 ### Future Analysis
 
-Future analysis of a few key areas of the dataset would be beneficial to the model. The first area would be looking at the geographical data and seeing how the data breaks down by precint or sector. It would also be interesting to import latitude and longitude data of where the terry stop occured and see if there are any trends there. The second area would be the day of the week and time of day and seeing if the weekends or weekdays or a specific day or morning, afternoon, night could be anothe key feature. The third area would be to compare Seattle's performance to other cities of similar size and make up and see how they rank. 
+Future analysis of a few key areas of the dataset would be beneficial to the model. The first area would be looking at the geographical data and seeing how the data breaks down by precint or sector. It would also be interesting to import latitude and longitude data of where the terry stop occured and see if there are any trends there. The second area would be the day of the week and time of day and seeing if the weekends or weekdays or a specific day of the week or time of the day could be anothe key feature. The third area would be to compare Seattle's performance to other cities of similar size and make up and see how they rank. 
 
 Lastly, strategizing on how we can implement these changes into the department with stakeholder buy-in will be key in order to ensure these changes are interweaved into the structure of the police department.
 
