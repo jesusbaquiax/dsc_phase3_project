@@ -86,11 +86,11 @@ The model that produced the best results for the analysis was the Random Forest 
 
 Three key features that the model highlighted as important in being able to predict if a terry stop would lead to an arrest are:
 
-1 - Officer's and Subject's Race
-2 - Time of the Year
-3 - Officer's Age
+1. Officer's and Subject's Race
+2. Time of the Year
+3. Officer's Age
  
-While more research will need to be invested, a few preliminary solutions towards each recommednation include 1) trying to match an officer's race with the race of neighborhood they patrol whenever possible 2) coordinating a communication push during morning briefs on how police officers can manage or be aware of their own biases and 3) having training requirements for officer's who reach a certain age or time as an officer with an emphasis on diveristy and inclusiveness and community building skills.
+While more research will need to be invested, a few preliminary solutions towards each recommendation include 1) trying to match an officer's race with the race of neighborhood they patrol whenever possible 2) coordinating a communication push during morning briefs on how police officers can manage or be aware of their own biases and 3) having training requirements for officer's who reach a certain age or time as an officer with an emphasis on diveristy and inclusiveness and community building skills.
 
 
 ### Future Analysis
